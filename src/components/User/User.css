@@ -1,0 +1,22 @@
+.user-profiles{
+    
+}
+.profile{
+    border: 3px double skyblue;
+    background-color: white;
+    padding: 20px 5px 20px 5px;
+    box-shadow: 0 10px 10px -5px;
+
+}
+.profile:hover{
+    box-shadow: 5px 5px 20px;
+    cursor: pointer;
+}
+
+.profile h4{
+    font-size: 18px;
+    margin-top: 20px;
+}
+.profile h6{
+    font-size: 12px;
+}

@@ -1,0 +1,11 @@
+.user-img{
+    width: 50px;
+    border: 1px solid skyblue;
+    padding: 2px;
+    box-shadow: 0 0 5px #ccc;
+}
+
+.user-img img{
+    width: 100%;
+    
+}
